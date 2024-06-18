@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Binuri1
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java & HTML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there👋 
+----------
+👩🏻‍💻 Who am I? 
+ - Computer Science undergraduate at University of Colombo School of Computing 👩‍🎓
+ - Interested in Web Development ✨
 
 <!---
 Binuri1/Binuri1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
