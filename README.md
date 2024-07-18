@@ -44,12 +44,10 @@ Connect with me:🤝
 <br>
 
 <div align="center">
-  <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=binuri-mindula
+&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=binuri-mindula
+&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 </div>
 
