@@ -44,9 +44,11 @@ Connect with me:🤝
 <br>
 
 <div align="center">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binuri-mindula&show_icons=true&locale=en&layout=compact" alt="binuri-mindula" /></p>
+  <div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binuri-mindula&show_icons=true&locale=en" alt="binuri-mindula" /></p>
+###
 
 
 </div>
