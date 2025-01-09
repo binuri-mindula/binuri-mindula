@@ -49,8 +49,12 @@ Connect with me:🤝
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binuri-mindula&show_icons=true&locale=en&hide_rank=false&show_icons=true&include_all_commits=true&theme=dracula" alt="binuri-mindula" /></p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?username=binuri-mindula&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binuri-mindula&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  </p>
 </div>
+
 
 </div>
 
